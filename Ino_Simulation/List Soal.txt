@@ -1,0 +1,6 @@
+Soal No 1 : trafficLight
+Soal No 2 : ServoSesuaiInputuser
+Soal No 3 : BtnLedMatinyala
+Soal No 4 : LedBerdasarkanInputuser
+Soal No 5 : Servo_Led_0-180Derajat
+Soal No 6 : SerialMonitor_GanjilGenapLED
